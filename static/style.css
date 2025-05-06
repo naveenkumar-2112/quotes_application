@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f4f8;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quote-box {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.quote {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+.author {
+    color: #555;
+}
